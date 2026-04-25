@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pipenv --version)",
+      "Bash(nvm --version)",
+      "Bash(tfswitch --version)",
+      "Bash(kustomize version *)",
+      "Bash(jq --version)",
+      "Bash(pip install *)"
+    ]
+  }
+}
